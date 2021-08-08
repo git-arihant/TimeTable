@@ -1,0 +1,27 @@
+<resources>
+    <string name="ph">Physics</string>
+    <string name="ma">Maths</string>
+    <string name="cp">OOPS</string>
+    <string name="ed">ED</string>
+    <string name="mp">MP</string>
+    <string name="pc">PC</string>
+    <string name="bl">-</string>
+
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="app_name">Time Table</string>
+    <string name="title_activity_monday">monday</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_tuesday">tuesday</string>
+    <string name="title_activity_thursday">Thursday</string>
+</resources>
