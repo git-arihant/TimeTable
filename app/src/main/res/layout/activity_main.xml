@@ -20,12 +20,12 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="150dp"
-        android:layout_height="wrap_content"
+        android:layout_width="151dp"
+        android:layout_height="49dp"
         android:layout_marginTop="300dp"
         android:shadowColor="#000000"
         android:shadowDy="-50"
-        android:text="@string/monday"
+        android:text="thapar"
         app:backgroundTint="@android:color/holo_blue_light"
         app:cornerRadius="50sp"
         app:layout_constraintBottom_toBottomOf="parent"
